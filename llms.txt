@@ -12,8 +12,8 @@
 ## Página oficial
 
 - [Início](https://psilauraribeiro.com/): apresentação profissional, modalidades de atendimento e dúvidas frequentes.
-- [Privacidade](https://psilauraribeiro.com/privacidade.html): informações sobre o tratamento de dados no site.
-- [Termos de uso](https://psilauraribeiro.com/termos.html): condições de uso das informações publicadas.
+- [Privacidade](https://psilauraribeiro.com/privacidade): informações sobre o tratamento de dados no site.
+- [Termos de uso](https://psilauraribeiro.com/termos): condições de uso das informações publicadas.
 
 ## Contato
 
