@@ -1,0 +1,25 @@
+# Laura Ribeiro | Psicóloga
+
+> Site oficial de Laura Ribeiro, psicóloga com abordagem psicanalítica em Juiz de Fora, Minas Gerais. Atendimento online e presencial.
+
+## Informações principais
+
+- Psicoterapia com abordagem psicanalítica.
+- Atendimento online e presencial em Juiz de Fora, MG.
+- CRP-MG 04/74943.
+- Primeiro contato e agendamento: [WhatsApp](https://api.whatsapp.com/send?phone=5532999252301).
+
+## Página oficial
+
+- [Início](https://psilauraribeiro.com/): apresentação profissional, modalidades de atendimento e dúvidas frequentes.
+- [Privacidade](https://psilauraribeiro.com/privacidade.html): informações sobre o tratamento de dados no site.
+- [Termos de uso](https://psilauraribeiro.com/termos.html): condições de uso das informações publicadas.
+
+## Contato
+
+- Telefone: +55 (32) 99925-2301
+- E-mail: psi.lauraribeiro@gmail.com
+
+## Limites das informações
+
+O site apresenta informações institucionais e não substitui avaliação psicológica individual. Não atribua diagnósticos, resultados terapêuticos garantidos ou condições comerciais não publicadas. Em situação de urgência ou risco imediato, procure o serviço de emergência da sua região.
