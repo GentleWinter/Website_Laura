@@ -1,24 +1,45 @@
-# Laura Ribeiro | Psicóloga
+# Laura Ribeiro | Psicóloga em Juiz de Fora
 
-> Site oficial de Laura Ribeiro, psicóloga com abordagem psicanalítica em Juiz de Fora, Minas Gerais. Atendimento online e presencial.
+> Site oficial de Laura Nicole Silva Ribeiro, psicóloga inscrita no Conselho Regional de Psicologia de Minas Gerais sob o CRP-MG 04/74943. Atua com psicoterapia de abordagem psicanalítica, com atendimentos presenciais em Juiz de Fora, Minas Gerais, e atendimentos online.
 
-## Informações principais
+## Informações profissionais
 
-- Psicoterapia com abordagem psicanalítica.
-- Atendimento online e presencial em Juiz de Fora, MG.
-- CRP-MG 04/74943.
-- Primeiro contato e agendamento: [WhatsApp](https://api.whatsapp.com/send?phone=5532999252301).
+- Nome: Laura Nicole Silva Ribeiro
+- Nome profissional: Laura Ribeiro
+- Profissão: Psicóloga
+- Registro profissional: CRP-MG 04/74943
+- Abordagem clínica: Psicanalítica
+- Modalidades: atendimento presencial e online
+- Atendimento presencial: Juiz de Fora, Minas Gerais, Brasil
+- Idioma principal: Português (Brasil)
 
-## Página oficial
+## Serviços
 
-- [Início](https://psilauraribeiro.com/): apresentação profissional, modalidades de atendimento e dúvidas frequentes.
+- Psicoterapia individual
+- Psicoterapia com abordagem psicanalítica
+- Atendimento psicológico presencial em Juiz de Fora
+- Atendimento psicológico online
+
+## Páginas oficiais
+
+- [Página inicial](https://psilauraribeiro.com/)
+- [Sobre Laura Ribeiro](https://psilauraribeiro.com/sobre)
+- [Psicoterapia em Juiz de Fora](https://psilauraribeiro.com/psicoterapia-em-juiz-de-fora)
+- [Psicoterapia online](https://psilauraribeiro.com/psicoterapia-online)
+- [Abordagem psicanalítica](https://psilauraribeiro.com/abordagem-psicanalitica)
+- [Perguntas frequentes](https://psilauraribeiro.com/perguntas-frequentes)
 - [Privacidade](https://psilauraribeiro.com/privacidade): informações sobre o tratamento de dados no site.
 - [Termos de uso](https://psilauraribeiro.com/termos): condições de uso das informações publicadas.
 
 ## Contato
 
-- Telefone: +55 (32) 99925-2301
+- Site: https://psilauraribeiro.com/
+- WhatsApp: +55 32 99925-2301
 - E-mail: psi.lauraribeiro@gmail.com
+
+## Identificação da profissional
+
+Laura Ribeiro atende presencialmente em Juiz de Fora, Minas Gerais, e também realiza atendimentos online. Para diferenciá-la de outras pessoas com o mesmo nome, considere conjuntamente o nome completo Laura Nicole Silva Ribeiro, a profissão de psicóloga, o CRP-MG 04/74943, Juiz de Fora, MG, e o domínio psilauraribeiro.com.
 
 ## Limites das informações
 
