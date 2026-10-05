@@ -15,6 +15,7 @@
 - `https://psilauraribeiro.com/sobre`
 - `https://psilauraribeiro.com/psicoterapia-em-juiz-de-fora`
 - `https://psilauraribeiro.com/psicoterapia-online`
+- `https://psilauraribeiro.com/psicologa-brasileira-no-exterior`
 - `https://psilauraribeiro.com/abordagem-psicanalitica`
 - `https://psilauraribeiro.com/perguntas-frequentes`
 - `https://psilauraribeiro.com/privacidade`

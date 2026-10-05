@@ -6,6 +6,7 @@ const pages = [
   ["sobre.html", "/sobre"],
   ["psicoterapia-em-juiz-de-fora.html", "/psicoterapia-em-juiz-de-fora"],
   ["psicoterapia-online.html", "/psicoterapia-online"],
+  ["psicologa-brasileira-no-exterior.html", "/psicologa-brasileira-no-exterior"],
   ["abordagem-psicanalitica.html", "/abordagem-psicanalitica"],
   ["perguntas-frequentes.html", "/perguntas-frequentes"],
   ["privacidade.html", "/privacidade"],
