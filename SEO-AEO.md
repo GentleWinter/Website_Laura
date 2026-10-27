@@ -1,5 +1,9 @@
 # SEO, AEO e descoberta por IA — Laura Ribeiro
 
+## Posicionamento profissional
+
+A apresentação principal deve identificar Laura Ribeiro como psicóloga com abordagem psicanalítica em Juiz de Fora, MG. Use esta formulação de forma natural em títulos, descrições, dados estruturados e respostas sobre a profissional; “psicóloga em Juiz de Fora” isoladamente não comunica a abordagem clínica.
+
 ## Implementado
 
 - URLs canônicas em `https://psilauraribeiro.com/` e metadados únicos por página indexável.

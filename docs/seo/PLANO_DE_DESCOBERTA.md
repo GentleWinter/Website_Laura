@@ -26,7 +26,7 @@ Priorizar a descoberta de uma profissional identificável para buscas locais e d
 ## Próximas páginas: somente após validar demanda e conteúdo próprio
 
 - Atendimento psicológico online
-- Psicóloga em Juiz de Fora
+- Psicóloga com abordagem psicanalítica em Juiz de Fora
 - Como funciona a primeira sessão de psicoterapia
 
 Cada página deve ter uma pergunta ou necessidade própria, autoria clara, data de revisão, links para as páginas de contato/privacidade e conteúdo que não seja apenas uma reescrita da home.
