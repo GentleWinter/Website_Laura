@@ -3,6 +3,9 @@
   "name": "lauraribeiropsi",
   "main": "src/index.js",
   "compatibility_date": "2026-10-05",
+  "build": {
+    "command": "npm run build"
+  },
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",

@@ -19,3 +19,6 @@ p,li { max-width:760px; }
 .notice { margin:2rem 0; padding:1.25rem 1.4rem; border-left:3px solid var(--coral); background:var(--warm); }
 .site-footer { padding:2rem 0; color:#d5e0e0; background:#0b222e; font-size:.88rem; }
 .site-footer p { margin:0; }
+
+.footer-credit { margin:1.4rem 0 0; padding-top:1rem; border-top:1px solid rgba(213,224,224,.2); color:#9cb0b3; font-size:.75rem; line-height:1.5; }.footer-credit a { color:#d5e0e0; text-underline-offset:.18em; }
+@media (max-width:600px) { .footer-credit { text-align:left; } }
